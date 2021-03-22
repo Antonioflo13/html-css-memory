@@ -21,6 +21,7 @@ h1{
     text-align: center;
     font-size: 100px;
     color: white;
+    text-shadow: 3px 0px 0px black;
 }
 
 /* main */
@@ -35,6 +36,7 @@ h1{
     width: calc(100% / 4 - 40px);
     margin: 20px;
     height: 208px;
+    box-shadow: 3px 0px 1px black;
     background-image: url(../img/pattern.png);
     background-size: contain;
     background-position: center;
